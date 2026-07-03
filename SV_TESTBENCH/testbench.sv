@@ -1,0 +1,8 @@
+`include "fifo_shared.sv"
+`include "fifo_transaction.sv"
+`include "fifo_if.sv"
+`include "fifo_coverage.sv"
+`include "fifo_score.sv"
+`include "fifo_monitor.sv"
+`include "fifo_tb.sv"
+`include "fifo_top.sv"
